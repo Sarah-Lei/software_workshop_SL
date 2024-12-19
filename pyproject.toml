@@ -4,4 +4,4 @@ version = "1.0.0"
 description = "My first Python package"
 requires-python = ">=3.8"
 authors = [{name = "John Doe", email = "john@example.com"},]
-dependencies = ["numpy", "pandas"]
+dependencies = ["numpy", "pandas", "pytest"]
