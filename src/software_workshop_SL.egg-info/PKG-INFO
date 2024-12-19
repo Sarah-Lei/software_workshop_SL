@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: software_workshop_SL
+Version: 1.0.0
+Summary: My first Python package
+Author-email: John Doe <john@example.com>
+Requires-Python: >=3.8
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: pandas

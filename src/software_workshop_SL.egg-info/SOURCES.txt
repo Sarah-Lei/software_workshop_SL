@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/example_package/__init__.py
+src/example_package/example.py
+src/software_workshop_SL.egg-info/PKG-INFO
+src/software_workshop_SL.egg-info/SOURCES.txt
+src/software_workshop_SL.egg-info/dependency_links.txt
+src/software_workshop_SL.egg-info/requires.txt
+src/software_workshop_SL.egg-info/top_level.txt
+tests/test_main.py
